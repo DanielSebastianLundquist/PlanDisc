@@ -3,8 +3,9 @@
 Alternativ 1:  
 
 Politikk:  
-Økonomi: <span style="color: #d0685d;">Økonomi Text Here</span>  
+Økonomi: <font color="#d0685d">Økonomi Text Here</font>  
 HR:
+
 Kommunikasjon:
 Kommunedirektør med rådgivere:
 - Kampen om arbeidskrafta
