@@ -1,10 +1,9 @@
-# Design, Tema og oppbygging av PlanDisc
-##Oppsett 1
+# Design, tema og oppbygging av PlanDisc
 
-###Fargekoder
+Alternativ 1:  
 
-Politikk:
-Økonomi: #d0685d  
+Politikk:  
+Økonomi: <span style="color: #d0685d;">Økonomi Text Here</span>  
 HR:
 Kommunikasjon:
 Kommunedirektør med rådgivere:
